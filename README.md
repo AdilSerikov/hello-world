@@ -1,2 +1,4 @@
 # hello-world
-228
+Hi people 
+i'm the novice 
+ggwp
